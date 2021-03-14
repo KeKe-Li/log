@@ -8,7 +8,7 @@
 
 log is a powerful logging framework that provides log custom log level.
 
-log provides Fatal, Error ,  Warn, Info, Debug level log. 
+log provides Fatal, Error, Warn, Info, Debug level log. 
 
 #### How to Use
 
@@ -29,7 +29,6 @@ func main(){
 ```
 
 This use is made of the key and the Value output.
-
 
 ### License
 
