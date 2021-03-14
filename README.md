@@ -10,15 +10,14 @@ log is a powerful logging framework that provides log custom log level.
 
 log provides Fatal, Error ,  Warn, Info, Debug level log. 
 
-
-
 #### How to Use
 
 Use Log just as you would use print.
 
 ```go
 func main(){
-	ctx := context.Background()
+	l := log.New(log.WithTraceId(trace.NewTraceId()))
+	ctx := log.NewContext(context.Background(), l)
 	
 	v, err := rand.Int(rand.Reader, big.NewInt(int64(16)))
     	if err != nil {
