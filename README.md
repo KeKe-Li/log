@@ -15,7 +15,7 @@ if you like，please star。
 
 #### How to Use
 
-Use Log just as you would use print.
+Use Log just as you use println,it's very simple and useful.
 
 ```go
 func main(){
