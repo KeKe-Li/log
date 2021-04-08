@@ -10,7 +10,6 @@ log is a powerful logging framework that provides log custom log level.
 
 log provides Fatal, Error, Warn, Info, Debug level log. 
 
-
 if you like，please star。
 
 #### How to Use
