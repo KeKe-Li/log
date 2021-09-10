@@ -10,11 +10,11 @@ log is a powerful logging framework that provides log custom log level.
 
 log provides Fatal, Error, Warn, Info, Debug level log. 
 
-if you like，please star。
+If you like，please star。
 
 #### How to Use
 
-fast use Log just as use println, it's very simple and easy to use.
+Fast use Log just as use println, it's very simple and easy to use.
 
 ```go
 func main(){
