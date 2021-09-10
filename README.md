@@ -8,9 +8,9 @@
 
 log is a powerful logging framework that provides log custom log level.
 
-log provides Fatal, Error, Warn, Info, Debug level log. 
+log provides Fatal, Error, Warn, Info, Debug level log. and with the requestID can quickly go to the current line of code.
 
-If you like，please star。
+If you like，please give a star。
 
 #### How to Use
 
