@@ -14,7 +14,7 @@ If you like，please give a star。
 
 #### How to Use
 
-Fast use Log just as use println, it's very simple and easy to use.
+it's very simple and easy to use.
 
 ```go
 func main(){
